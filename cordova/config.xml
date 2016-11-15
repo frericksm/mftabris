@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="mytabris" version="0.1.0">
-  <name>de.mf.Mytabris</name>
+<widget id="de.mf.mytabris" version="0.1.0">
+  <name>Mytabris</name>
   <description>
     Example Tabris.js App
   </description>
